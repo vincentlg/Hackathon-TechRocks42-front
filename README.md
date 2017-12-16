@@ -37,7 +37,7 @@ Tech Stack:
 - Flask
 
 ### Credits
-https://html5up.net/phantom
-http://flask.pocoo.org/
-https://stackedit.io/editor
-https://stackoverflow.com/
+- https://html5up.net/phantom
+- http://flask.pocoo.org/
+- https://stackedit.io/editor
+- https://stackoverflow.com/
