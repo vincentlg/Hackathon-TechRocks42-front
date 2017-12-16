@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-=======
-
->>>>>>> be7a4c1986034c8e1c71d37cf5f64da5631455a4
 # TechRocks Fight!
 
 Which French company is the best influencer on Twitter?
