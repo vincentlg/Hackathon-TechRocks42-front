@@ -39,3 +39,5 @@ Tech Stack:
 ### Credits
 - https://html5up.net/phantom
 - http://flask.pocoo.org/
+- Lightsaber Fight Loader https://codepen.io/samvgm/pen/LVzpJW?q=fight via @CodePen
+- http://animejs.com/
